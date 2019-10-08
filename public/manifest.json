@@ -1,0 +1,21 @@
+{
+  "short_name": "Hannah Monster",
+  "name": "Hannah Monster",
+  "icons": [
+    {
+      "src": "/monster/public/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/monster/public/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/monster/?source=pwa",
+  "background_color": "#f1c40f",
+  "display": "standalone",
+  "scope": "/monster/",
+  "theme_color": "#f1c40f"
+}
